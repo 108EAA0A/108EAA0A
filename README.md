@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" height=165 src="https://github-readme-stats.vercel.app/api?username=108EAA0A&count_private=true&show_icons=true&theme=tokyonight">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=108EAA0A&layout=compact&theme=tokyonight&hide=blade">
+  </a>
+</div>
+
 <!--
 **108EAA0A/108EAA0A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
